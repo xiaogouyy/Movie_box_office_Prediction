@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# Microsoft Office lock files
+~$*
+
+# Course materials (not for redistribution)
+*syllabus*.pdf
+MGSC661_Movie_Regression_Homework.docx
