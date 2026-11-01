@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c ' *)",
+      "Bash(python3 -c \"import ISLP, statsmodels, sklearn; print\\('ok'\\)\")",
+      "Bash(mkdir -p \"/private/tmp/claude-501/-Users-lyy-Library-Mobile-Documents-com-apple-CloudDocs-MGSC661-ass1/6d17630d-5a69-4ef0-8dcf-dd73436545c4/scratchpad\")",
+      "Bash(cp \"Assignment 2_Questions.ipynb\" \"/private/tmp/claude-501/-Users-lyy-Library-Mobile-Documents-com-apple-CloudDocs-MGSC661-ass1/6d17630d-5a69-4ef0-8dcf-dd73436545c4/scratchpad/backup.ipynb\")",
+      "Bash(python3 \"/private/tmp/claude-501/-Users-lyy-Library-Mobile-Documents-com-apple-CloudDocs-MGSC661-ass1/6d17630d-5a69-4ef0-8dcf-dd73436545c4/scratchpad/fill.py\" \"Assignment 2_Questions.ipynb\")"
+    ]
+  }
+}
